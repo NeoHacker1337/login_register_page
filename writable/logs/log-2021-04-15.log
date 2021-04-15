@@ -1,0 +1,1136 @@
+CRITICAL - 2021-04-15 06:05:23 --> syntax error, unexpected ''cpasssword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:06:53 --> syntax error, unexpected ''cpasssword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:07:45 --> syntax error, unexpected ''cpasssword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:07:59 --> syntax error, unexpected ',', expecting ';'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:10:13 --> syntax error, unexpected ''cpasssword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:18:23 --> syntax error, unexpected ''cpasssword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:18:34 --> syntax error, unexpected ''cpasssword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:18:37 --> syntax error, unexpected ''cpasssword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:18:50 --> syntax error, unexpected '"cpasssword"' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:19:08 --> syntax error, unexpected ',', expecting ';'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:20:01 --> syntax error, unexpected ',', expecting ';'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:20:11 --> Call to undefined method App\Controllers\Auth::validation()
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-15 06:20:21 --> Call to undefined method App\Controllers\Auth::validation()
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-15 06:20:49 --> syntax error, unexpected ''cpassword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:21:13 --> syntax error, unexpected ''cpassword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:23:35 --> syntax error, unexpected ''cpassword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:24:08 --> syntax error, unexpected ''cpassword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:24:45 --> syntax error, unexpected ''cpassword'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:27:42 --> syntax error, unexpected ',', expecting ';'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 06:29:06 --> syntax error, unexpected ',', expecting ';'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 07:07:24 --> syntax error, unexpected '?>'
+#0 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(27): view('auth/register', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 07:09:01 --> syntax error, unexpected '?>'
+#0 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(27): view('auth/register', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 07:09:30 --> syntax error, unexpected ';'
+#0 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(27): view('auth/register', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 07:09:38 --> syntax error, unexpected '?>'
+#0 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(27): view('auth/register', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 07:09:57 --> Call to undefined function display_error()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(27): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 07:11:45 --> Call to undefined function display_error()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(30): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 07:14:38 --> Call to undefined function display_error()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(31): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 07:23:12 --> Call to undefined function display_error()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(31): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 07:44:47 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 07:47:49 --> syntax error, unexpected ''max_length'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 07:48:26 --> Call to undefined function display_error()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(74): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 07:49:27 --> Call to undefined function display_errors()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(74): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 07:49:39 --> Call to undefined function display_error()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(74): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 07:54:04 --> Call to undefined function display_error()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(61): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 07:54:16 --> Call to undefined function display_error()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(61): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 08:01:23 --> Call to undefined function display_error()
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(60): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 08:04:08 --> Array to string conversion
+#0 D:\wamp64\www\shield\app\Views\auth\register.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'D:\\wamp64\\www\\s...', 25, Array)
+#1 D:\wamp64\www\shield\system\View\View.php(220): include('D:\\wamp64\\www\\s...')
+#2 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#4 D:\wamp64\www\shield\app\Controllers\Auth.php(60): view('auth/register', Array)
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-04-15 08:04:23 --> Undefined variable: errors
+#0 D:\wamp64\www\shield\app\Views\auth\register.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 26, Array)
+#1 D:\wamp64\www\shield\system\View\View.php(220): include('D:\\wamp64\\www\\s...')
+#2 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#4 D:\wamp64\www\shield\app\Controllers\Auth.php(60): view('auth/register', Array)
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-04-15 08:04:42 --> Undefined variable: errors
+#0 D:\wamp64\www\shield\app\Views\auth\register.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 26, Array)
+#1 D:\wamp64\www\shield\system\View\View.php(220): include('D:\\wamp64\\www\\s...')
+#2 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#4 D:\wamp64\www\shield\app\Controllers\Auth.php(60): view('auth/register', Array)
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-04-15 08:07:27 --> Undefined variable: validation
+#0 D:\wamp64\www\shield\app\Views\auth\register.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 25, Array)
+#1 D:\wamp64\www\shield\system\View\View.php(220): include('D:\\wamp64\\www\\s...')
+#2 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#4 D:\wamp64\www\shield\app\Controllers\Auth.php(20): view('auth/register')
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->register()
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-04-15 08:07:42 --> Undefined variable: validation
+#0 D:\wamp64\www\shield\app\Views\auth\register.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 25, Array)
+#1 D:\wamp64\www\shield\system\View\View.php(220): include('D:\\wamp64\\www\\s...')
+#2 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#4 D:\wamp64\www\shield\app\Controllers\Auth.php(20): view('auth/register')
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->register()
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-04-15 08:11:00 --> Call to a member function getError() on string
+#0 D:\wamp64\www\shield\system\View\View.php(220): include()
+#1 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(20): view('auth/register', Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->register()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 08:14:40 --> syntax error, unexpected 'if' (T_IF)
+#0 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(20): view('auth/register', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->register()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 08:15:02 --> syntax error, unexpected end of file
+#0 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(20): view('auth/register', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->register()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 08:16:15 --> syntax error, unexpected end of file
+#0 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(20): view('auth/register', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->register()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 08:20:44 --> syntax error, unexpected 'if' (T_IF)
+#0 D:\wamp64\www\shield\system\View\View.php(222): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth/register', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(60): view('auth/register', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 08:32:56 --> syntax error, unexpected '=', expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 08:33:04 --> syntax error, unexpected '=', expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 08:33:24 --> syntax error, unexpected '=', expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 08:34:44 --> syntax error, unexpected '=', expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/register')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/register')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 08:36:16 --> Class 'App\Models\UsersModel' not found
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-15 08:38:08 --> Class 'App\Models\UsersModel' not found
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-15 08:58:30 --> Class 'App\Models\UsersModel' not found
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-15 09:00:51 --> Class 'App\Models\UsersModel' not found
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-15 09:01:25 --> Class 'App\Models\UsersModel' not found
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-15 09:02:34 --> Class 'App\Models\UsersModel' not found
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-15 09:03:29 --> Class 'App\Models\UsersModel\BaseController' not found
+#0 D:\wamp64\www\shield\system\Router\Router.php(562): include_once()
+#1 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/save')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/save')
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-04-15 09:04:29 --> Class 'App\Models\UsersModel\BaseController' not found
+#0 D:\wamp64\www\shield\system\Router\Router.php(562): include_once()
+#1 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/save')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/save')
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-04-15 09:29:37 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Libraries\Hash.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 6, Array)
+#1 D:\wamp64\www\shield\app\Controllers\Auth.php(72): App\Libraries\Hash::make('mahender')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-04-15 09:33:15 --> syntax error, unexpected '=', expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/save')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/save')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 09:33:33 --> syntax error, unexpected '=', expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/save')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/save')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 09:33:42 --> syntax error, unexpected '=', expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/save')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/save')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 09:36:21 --> syntax error, unexpected '}', expecting ',' or ';'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 09:44:17 --> syntax error, unexpected ')', expecting ']'
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 09:44:49 --> Invalid file: auth.php
+#0 D:\wamp64\www\shield\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth.php')
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(110): view('auth', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 09:45:09 --> Invalid file: auth.php
+#0 D:\wamp64\www\shield\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth.php')
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(110): view('auth', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 09:46:10 --> Invalid file: auth.php
+#0 D:\wamp64\www\shield\system\View\View.php(203): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth.php')
+#1 D:\wamp64\www\shield\system\Common.php(1217): CodeIgniter\View\View->render('auth', Array, true)
+#2 D:\wamp64\www\shield\app\Controllers\Auth.php(110): view('auth', Array)
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-04-15 09:55:22 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 117, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 09:55:36 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 117, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 09:55:56 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 117, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 09:56:26 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(117): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 117, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 10:07:21 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(118): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 118, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 10:10:14 --> Class 'App\Controllers\UserModel' not found
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2021-04-15 10:10:31 --> mysqli_sql_exception: Unknown column 'user_email' in 'where clause' in D:\wamp64\www\shield\system\Database\MySQLi\Connection.php:314
+Stack trace:
+#0 D:\wamp64\www\shield\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT *\nFROM `...')
+#1 D:\wamp64\www\shield\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\wamp64\www\shield\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\wamp64\www\shield\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\wamp64\www\shield\system\Model.php(247): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\wamp64\www\shield\system\BaseModel.php(624): CodeIgniter\Model->doFirst()
+#6 D:\wamp64\www\shield\app\Controllers\Auth.php(129): CodeIgniter\BaseModel->first()
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#8 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-04-15 10:10:31 --> Unknown column 'user_email' in 'where clause'
+#0 D:\wamp64\www\shield\system\Database\MySQLi\Connection.php(314): mysqli->query('SELECT *\nFROM `...')
+#1 D:\wamp64\www\shield\system\Database\BaseConnection.php(713): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\wamp64\www\shield\system\Database\BaseConnection.php(641): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\wamp64\www\shield\system\Database\BaseBuilder.php(1866): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\wamp64\www\shield\system\Model.php(247): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\wamp64\www\shield\system\BaseModel.php(624): CodeIgniter\Model->doFirst()
+#6 D:\wamp64\www\shield\app\Controllers\Auth.php(129): CodeIgniter\BaseModel->first()
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#8 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#9 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2021-04-15 10:10:49 --> Undefined index: user_password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(131): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\wamp64\\www\\s...', 131, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 10:17:39 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:39 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:39 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:40 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:40 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:40 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:41 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:41 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:41 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:42 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:42 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:42 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(92): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:47 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('cpassword', 'cpassword', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:47 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('cpassword', 'cpassword', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:48 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('cpassword', 'cpassword', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:48 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:49 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:49 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:50 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('cpassword', 'cpassword', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:50 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('cpassword', 'cpassword', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:50 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('cpassword', 'cpassword', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:50 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:50 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:51 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:51 --> Argument 1 passed to CodeIgniter\Validation\FormatRules::valid_email() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\FormatRules->valid_email(Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('email', 'email', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:51 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:51 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:51 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:52 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:17:52 --> Argument 1 passed to CodeIgniter\Validation\Rules::min_length() must be of the type string or null, array given, called in D:\wamp64\www\shield\system\Validation\Validation.php on line 306
+#0 D:\wamp64\www\shield\system\Validation\Validation.php(306): CodeIgniter\Validation\Rules->min_length(Array, '5', Array, NULL)
+#1 D:\wamp64\www\shield\system\Validation\Validation.php(164): CodeIgniter\Validation\Validation->processRules('password', 'password', Array, Array, Array)
+#2 D:\wamp64\www\shield\system\Controller.php(181): CodeIgniter\Validation\Validation->run()
+#3 D:\wamp64\www\shield\app\Controllers\Auth.php(29): CodeIgniter\Controller->validate(Array)
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->save()
+#5 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-04-15 10:18:31 --> Class Home does not exist
+#0 D:\wamp64\www\shield\system\Debug\Toolbar\Collectors\Routes.php(82): ReflectionMethod->__construct('Home', '_remap')
+#1 D:\wamp64\www\shield\system\Debug\Toolbar\Collectors\BaseCollector.php(275): CodeIgniter\Debug\Toolbar\Collectors\Routes->display()
+#2 D:\wamp64\www\shield\system\Debug\Toolbar.php(101): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#3 D:\wamp64\www\shield\system\Debug\Toolbar.php(314): CodeIgniter\Debug\Toolbar->run(1618499911.6923, 0.0152, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#4 D:\wamp64\www\shield\system\Filters\DebugToolbar.php(51): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#5 D:\wamp64\www\shield\system\Filters\Filters.php(207): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(450): CodeIgniter\Filters\Filters->run('', 'after')
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-04-15 13:59:22 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(118): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 118, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:01:20 --> Undefined variable: user_inf
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(120): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 120, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:02:12 --> Undefined variable: model
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(119): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 119, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:02:26 --> Undefined variable: model
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(119): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 119, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:05:02 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 127, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:11:43 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 127, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:12:15 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 127, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:13:56 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(128): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 128, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:18:47 --> password_verify() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'password_verify...', 'D:\\wamp64\\www\\s...', 127, Array)
+#1 D:\wamp64\www\shield\app\Controllers\Auth.php(127): password_verify('mahender2706')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-04-15 14:18:56 --> Undefined variable: verify_pass
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(128): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 128, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:21:28 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/check')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/check')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:21:47 --> syntax error, unexpected end of file
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/check')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/check')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:22:38 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/check')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/check')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:24:15 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/check')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/check')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:24:28 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\wamp64\www\shield\system\Router\Router.php(170): CodeIgniter\Router\Router->autoRoute('auth/check')
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(816): CodeIgniter\Router\Router->handle('auth/check')
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(385): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:24:52 --> Undefined variable: row
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(124): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 124, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:25:04 --> Undefined variable: que
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(120): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 120, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:27:09 --> Undefined variable: row
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 125, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:27:58 --> Call to a member function getRow() on array
+#0 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-04-15 14:29:22 --> Undefined variable: row
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(126): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 126, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:29:31 --> Undefined variable: row
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(127): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 127, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:30:33 --> Undefined variable: sess
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(131): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 131, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:32:17 --> Undefined variable: sess
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(132): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 132, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:32:38 --> Undefined variable: sess
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(132): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 132, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:37:19 --> Undefined index: user_password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(124): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\wamp64\\www\\s...', 124, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:37:53 --> Undefined variable: password
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(125): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 125, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:38:22 --> Undefined variable: session
+#0 D:\wamp64\www\shield\app\Controllers\Auth.php(136): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\wamp64\\www\\s...', 136, Array)
+#1 D:\wamp64\www\shield\system\CodeIgniter.php(936): App\Controllers\Auth->check()
+#2 D:\wamp64\www\shield\system\CodeIgniter.php(432): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-04-15 14:52:10 --> Class Home does not exist
+#0 D:\wamp64\www\shield\system\Debug\Toolbar\Collectors\Routes.php(82): ReflectionMethod->__construct('Home', '_remap')
+#1 D:\wamp64\www\shield\system\Debug\Toolbar\Collectors\BaseCollector.php(275): CodeIgniter\Debug\Toolbar\Collectors\Routes->display()
+#2 D:\wamp64\www\shield\system\Debug\Toolbar.php(101): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#3 D:\wamp64\www\shield\system\Debug\Toolbar.php(314): CodeIgniter\Debug\Toolbar->run(1618516330.0405, 0.0102, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#4 D:\wamp64\www\shield\system\Filters\DebugToolbar.php(51): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#5 D:\wamp64\www\shield\system\Filters\Filters.php(207): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(450): CodeIgniter\Filters\Filters->run('', 'after')
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-04-15 14:54:58 --> Class Home does not exist
+#0 D:\wamp64\www\shield\system\Debug\Toolbar\Collectors\Routes.php(82): ReflectionMethod->__construct('Home', '_remap')
+#1 D:\wamp64\www\shield\system\Debug\Toolbar\Collectors\BaseCollector.php(275): CodeIgniter\Debug\Toolbar\Collectors\Routes->display()
+#2 D:\wamp64\www\shield\system\Debug\Toolbar.php(101): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#3 D:\wamp64\www\shield\system\Debug\Toolbar.php(314): CodeIgniter\Debug\Toolbar->run(1618516498.9689, 0.0089, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#4 D:\wamp64\www\shield\system\Filters\DebugToolbar.php(51): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#5 D:\wamp64\www\shield\system\Filters\Filters.php(207): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#6 D:\wamp64\www\shield\system\CodeIgniter.php(450): CodeIgniter\Filters\Filters->run('', 'after')
+#7 D:\wamp64\www\shield\system\CodeIgniter.php(333): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\shield\index.php(44): CodeIgniter\CodeIgniter->run()
+#9 {main}
